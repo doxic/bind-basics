@@ -101,3 +101,4 @@ Start up server instance with `vagrant up`
 * [Best Practices — Ansible Documentation](http://docs.ansible.com/ansible/playbooks_best_practices.html#how-to-differentiate-staging-vs-production)How To Configure
 * [BIND as a Private Network DNS Server on CentOS 7 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-centos-7)
 * [DNS for Rocket Scientists](http://www.zytrax.com/books/dns/)
+* [Best Practices for Internal Domain and Network Names - TechNet Articles](https://social.technet.microsoft.com/wiki/contents/articles/34981.active-directory-best-practices-for-internal-domain-and-network-names.aspx)
