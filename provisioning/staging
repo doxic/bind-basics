@@ -1,7 +1,6 @@
 # file: staging
-ctrsrv001  ansible_connection=local
+ctrsrv001       ansible_connection=local
+
+[dns]
 nixsrv001       ansible_ssh_host=192.168.56.100 ansible_ssh_private_key_file=/vagrant/.vagrant/machines/node1/virtualbox/private_key
 nixsrv002       ansible_ssh_host=192.168.56.101 ansible_ssh_private_key_file=/vagrant/.vagrant/machines/node2/virtualbox/private_key
-
-[nodes]
-nixsrv[001:002]
